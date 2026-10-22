@@ -46,6 +46,8 @@ $$
 ### ***Ответ:***
 
 Утверждение верно;
+
+
 $$
 (l \perp a \land l \perp b \land a \subset \pi \land b \subset \pi \land a \nparallel b) \implies (\forall c \subset \pi: l \perp c)
 $$
