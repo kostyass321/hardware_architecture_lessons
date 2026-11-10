@@ -67,6 +67,8 @@ $$
 (\bar{X} \vee Y \vee Z) \vee (X \vee Y \vee Z) = (\bar{X} \vee X) \vee Y \vee Z = 1.
 $$
 
+
+- [таблица истинности](https://github.com/kostyass321/hardware_architecture_lessons/blob/main/truthtablesfor345.xlsx)
 ---
 
 ## Задание 4. Упрощение $\overline{(\bar{A} \wedge B)} \wedge \overline{(\bar{B} \wedge A)}$
@@ -106,6 +108,7 @@ $$
 
 Столбцы совпали — упрощение верно.
 
+- [таблица истинности](https://github.com/kostyass321/hardware_architecture_lessons/blob/main/truthtablesfor345.xlsx)
 ---
 
 ## Задание 5. Преобразование формулы №5 к связкам $\land, \lor, \lnot$
@@ -126,7 +129,7 @@ $$
 $$
 
 **Формула тождественно истинна.**
-
+- [таблица истинности](https://github.com/kostyass321/hardware_architecture_lessons/blob/main/truthtablesfor345.xlsx)
 ---
 
 

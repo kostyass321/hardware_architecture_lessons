@@ -49,3 +49,5 @@ $$
 
 функция равна 1, если среди $x, y, z$ есть и нули, и единицы;
 равна 0, если все три переменные совпадают (наборы $000$ и $111$).
+
+- [таблица истинности](https://github.com/kostyass321/hardware_architecture_lessons/blob/main/truthtable5variant-2.xlsx)
