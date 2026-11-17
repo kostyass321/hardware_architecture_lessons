@@ -29,4 +29,4 @@ $$(x \rightarrow y) \vee (x \rightarrow z) \equiv (\neg x \vee y) \vee (\neg x \
 
 
 
-
+- [таблица истинности Excel](https://github.com/kostyass321/hardware_architecture_lessons/blob/main/truthtablezadanie2domashka2.xlsx)
