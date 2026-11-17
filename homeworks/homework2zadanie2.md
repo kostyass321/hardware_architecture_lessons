@@ -3,13 +3,13 @@
 ## $1$. упрощение выражения
 
 исходное равенство:
-$$ x \rightarrow (y \vee z) = (x \rightarrow y) \vee (x \rightarrow z) $$
+$$x \rightarrow (y \vee z) = (x \rightarrow y) \vee (x \rightarrow z)$$
 
 **левая часть:**
-$$ x \rightarrow (y \vee z) \equiv \neg x \vee (y \vee z) \equiv \neg x \vee y \vee z $$
+$$x \rightarrow (y \vee z) \equiv \neg x \vee (y \vee z) \equiv \neg x \vee y \vee z$$
 
 **правая часть:**
-$$ (x \rightarrow y) \vee (x \rightarrow z) \equiv (\neg x \vee y) \vee (\neg x \vee z) \equiv \neg x \vee y \vee z $$
+$$(x \rightarrow y) \vee (x \rightarrow z) \equiv (\neg x \vee y) \vee (\neg x \vee z) \equiv \neg x \vee y \vee z$$
 
 вывод: выражения тождественны, равенство справедливо.
 
@@ -25,4 +25,8 @@ $$ (x \rightarrow y) \vee (x \rightarrow z) \equiv (\neg x \vee y) \vee (\neg x 
 | 1 | 0 | 1 | 1     | 1           | 0     | 1     | 1                 | Да        |
 | 1 | 1 | 0 | 1     | 1           | 1     | 0     | 1                 | Да        |
 | 1 | 1 | 1 | 1     | 1           | 1     | 1     | 1                 | Да        |
+
+
+
+
 
