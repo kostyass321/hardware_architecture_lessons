@@ -11,9 +11,9 @@ $f_1$ - функция сохраняющая $0$ т.к $f_1(0,0,0) = 0 \oplus 0
 $f_1$ - функция сохраняющая $1$ т.к $f_1(1,1,1) = 1 \oplus 1 \oplus 1 = 1$
 
 найдем двойственную ей функцию
-$$
+$
 f_1^* =\overline{f_1(\bar{x}, \bar{y}, \bar{z})} = \overline{(\bar{x} \oplus \bar{y} \oplus \bar{z})} = \overline{(x \oplus 1) \oplus (y \oplus 1) \oplus (z \oplus 1)} = \overline{x \oplus y \oplus z \oplus 1} = x \oplus y \oplus z
-$$
+$
 т.е $f_1 \in S$
 
 $f_1$ - линейная функция.
@@ -29,9 +29,9 @@ $f_2$ - функция сохраняющая $0$ т.к $f_2(0,0) = 0 \cdot 0 = 
 $f_2$ - функция сохраняющая $1$ т.к $f_2(1,1) = 1 \cdot 1 = 1$
 
 найдем двойственную ей функцию
-$$
+$
 f_2^* = \overline{f_2(\bar{x}, \bar{y})} = \overline{\bar{x} \cdot \bar{y}} = x + y
-$$
+$
 т.к $f_2^* \neq f_2$, то $f_2 \notin S$
 
 $f_2$ - нелинейная функция
@@ -47,9 +47,9 @@ $f_3$ - не сохраняющая $0$ т.к $f_3(0) = 1 \neq 0$, т.е $f_3 \n
 $f_3$ - не сохраняющая $1$ т.к $f_3(1) = 0 \neq 1$, т.е $f_3 \notin T_1$
 
 найдем двойственную ей функцию
-$$
+$
 f_3^* = \overline{f_3(\bar{x})} = \overline{\bar{x}'} = x = \overline{x'}
-$$
+$
 т.е $f_3 \in S$
 
 $f_3$ - линейная функция ($x' = x \oplus 1$)
