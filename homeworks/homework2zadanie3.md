@@ -10,11 +10,12 @@ $f_1$ - функция сохраняющая $0$ т.к $f_1(0,0,0) = 0 \oplus 0
 
 $f_1$ - функция сохраняющая $1$ т.к $f_1(1,1,1) = 1 \oplus 1 \oplus 1 = 1$
 
-найдем двойственную ей функцию
-$
+найдем двойственную ей функцию  
+$$
 f_1^* =\overline{f_1(\bar{x}, \bar{y}, \bar{z})} = \overline{(\bar{x} \oplus \bar{y} \oplus \bar{z})} = \overline{(x \oplus 1) \oplus (y \oplus 1) \oplus (z \oplus 1)} = \overline{x \oplus y \oplus z \oplus 1} = x \oplus y \oplus z
-$
+$$   
 т.е $f_1 \in S$
+
 
 $f_1$ - линейная функция.
 проверим функцию на монотонность: выберем два набора значений переменных
